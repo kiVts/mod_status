@@ -1,5 +1,7 @@
 # Mod Status
 
+[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX4RzunsxC)
+
 Appends the loaded mod count to Stormworks' existing bottom-left version label:
 
 `v1.15.23 64Bit (12 mods loaded)`
