@@ -6,6 +6,8 @@ Appends the loaded mod count to Stormworks' existing bottom-left version label:
 
 `v1.15.23 64Bit (12 mods loaded)`
 
+## As of SWML 4.6.1 this mod now comes with SWML core, and is thus obsolete
+
 If SWML detects a failure, the suffix becomes `(12 mods loaded, fault found)`.
 It remains until the game restarts; consult the SWML logs for details.
 
