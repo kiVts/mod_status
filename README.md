@@ -25,3 +25,5 @@ The mod edits the game's existing version text through SWML's native UI API.
 It preserves the original version and updates only when the count, fault flag
 or native version changes. Unsupported UI layouts are left alone. No overlay,
 render loop polling thread or extra simulation work is added.
+
+This mod is made in compliance of Geometa EULA. Under Section 3 Paragraph 4, `You must not modify, merge, distribute, translate, reverse engineer, decompile, or try to obtain or use source code for the Geometa Services, except for mods as per section 5 or where permitted by applicable law.` In section 5, `You may create and share mods and other content for our games, provided they comply with this Agreement. You own the content you create, including the content created in game, mods created with Geometa tool kits, community websites, etc.`
